@@ -1,2 +1,1 @@
-# yanochkachokolad
-parashnyi kod
+# SimUDuck
